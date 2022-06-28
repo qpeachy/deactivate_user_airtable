@@ -1,4 +1,5 @@
 #!/usr/bin/env python3
+#with jean-carol.forato@dataiku.com
 
 # Purpose:
 # Deactivate users
